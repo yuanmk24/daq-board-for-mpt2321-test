@@ -3,5 +3,5 @@
 *.OLBlck
 *.opj
 *.xsd
-*.jrl
+*.jrl*
 *.xml
